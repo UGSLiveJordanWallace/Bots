@@ -1,0 +1,11 @@
+Discord Formatting: 
+
+**bold**
+*italics*
+__underscore__
+~~crossed through~~
+`Single line code block`
+```Multiline Code Block```
+``` diff Red Color ```
+``` fix Yellow Color```
+``` Dark green```
